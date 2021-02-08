@@ -18,3 +18,14 @@ secondName = prompt("Bitte Secondname");
 
 console.log("Hallo " + firstName + " " + secondName);
 */
+/* js ist eine untypisierte Sprache!*/
+let test;
+test = "hi";
+console.log(typeof test);
+console.log(test);
+test = 2;
+console.log(typeof test);
+console.log(test);
+test = true;
+console.log(typeof test);
+console.log(test);
