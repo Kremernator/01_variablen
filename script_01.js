@@ -11,4 +11,10 @@ console.log(firstName);
 console.log(secondName);
 console.log(firstName + " " + secondName);
 */
+/*Declaration + Zuweisung2
+let firstName,secondName;
+firstName = prompt("Bitte Firstname");
+secondName = prompt("Bitte Secondname");
 
+console.log("Hallo " + firstName + " " + secondName);
+*/
